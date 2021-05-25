@@ -1,2 +1,2 @@
-display the output
+#display the output
 print("NEW WORLD")
